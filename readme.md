@@ -4,24 +4,42 @@
 
 - **V1.0.0**
   - App prototype launch
-- **V1.1.0**
-  - NFT Collection Browser
-    - Upcoming Collections Feed
-  - Android release
 
+- **V1.0.1** - November 17th, 2021
+  - Basic account creation 
+  - Ranking system based on in-app swipes
+  - Simple Search
+  - Basic push notification support
+  - NFT Collection Browser
+    - BAYC
+    - Cool Catz
+    - Doodles
+    - ABS
+  
 ## December 2021
+- **V1.1.0 - December 4th, 2021
+  - Android Test Release
 
-- **V1.2.0**
+- **V1.1.1
+  - Official App Store Launch with POAP for first 500 registrations
   - NFT Collection Browser
-    - Top 30 Collections
-  - Push notification support (beta)
+  
+- **V1.1.2
+  - Push Notification Support Vol. 1 
+    - New Collection Added
+    - Sales Data Feed aka token subscriptions
+
+Future Plans
+## 2022 Q1
+- **V2.0.0**
+  - Push notification support
     - Token Watch List
-    - Upcoming Collections
-  - Sales Data Feed - On Demand
+
   - ~In APP Rarity~ Popularity over rarity
 
-## 2022 Q1
 
+
+Future Plans
 - **V2.1.0**
   - Upgraded NFT Search
     - Saved Searches
@@ -35,14 +53,12 @@
     - Verified NFT Avatar library
 
 ## 2022 Q2
-
 - **V.2.2.0**
   - NFT Event Curation | Create NFT Events
   - NFT Event Check-in
   - Updated Ranking + Rarity Model
 
 ## 2022 Q3
-
 - **V.2.3.0**
   - NFT Onboarding experience
   - NFT Recommendations engine
@@ -53,7 +69,6 @@
   - Encrypted chatting and messaging
 
 ## 2023 and beyond
-
 - Decentralized ownership of mobile application
 - Multiple NFT Collections Supported
 - NFT Paid Promotions Posts
